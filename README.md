@@ -1,6 +1,6 @@
 # Hi there, I'm Bruno,
 
-### About me
+### Profile
 <!--
 <p>
   <img width="150" align='right' src="https://waylonwalker.com/latest-story.png"/>
