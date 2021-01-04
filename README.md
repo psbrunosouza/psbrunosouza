@@ -8,7 +8,7 @@
 
 <p>
   ![Alt text](./Programmer-cuate.svg)
-  <img width="420" align="right" src="./Programmer-cuate.svg">
+  <img width="320" align="right" src="./Programmer-cuate.svg">
 </p>
 
 
