@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=psbrunosouza&repo=find-your-new-anime&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psbrunosouza&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psbrunosouza&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
