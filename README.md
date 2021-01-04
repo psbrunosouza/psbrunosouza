@@ -1,11 +1,11 @@
 # Hi there, I'm Bruno,
 
 ### Profile
-<!--
+
 <p>
-  <img width="150" align='right' src="https://waylonwalker.com/latest-story.png"/>
+  <img width="150" align='right' src="https://storyset.com/illustration/programmer/cuate"/>
 </p>
--->
+
 
 I'm a student of tecnology, presently learning web development with reactjs and node and making personal projects while looking for new opportunities
 
