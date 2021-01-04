@@ -11,7 +11,7 @@
 </div>
 
 
-I'm a student of technology in {University Salvador = Brazil}, presently involved with web development working with reactjs and node and making personal projects while looking for new opportunities. Salvador / Bahia
+I'm a student of technology in {University Salvador = Brazil}, presently involved with web development working with reactjs and node and making personal projects while looking for new opportunities.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psbrunosouza&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
