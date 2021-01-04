@@ -3,7 +3,8 @@
 ### Profile
 
 <p>
-  <img width="150" align='right' src="https://storyset.com/illustration/programmer/cuate"/>
+  ![Alt text](./Programmer-cuate.svg)
+  <img width="420" align="right" src="./Programmer-cuate.svg">
 </p>
 
 
