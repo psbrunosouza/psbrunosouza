@@ -6,10 +6,9 @@
 
 ### Profile
 
-<p>
-  ![Alt text](./Programmer-cuate.svg)
-  <img width="320" align="right" src="./Programmer-cuate.svg">
-</p>
+<div>
+  <!-- <img width="320" align="right" src="./Programmer-cuate.svg"> -->
+</div>
 
 
 I'm a student of tecnology, presently learning web development with reactjs and node and making personal projects while looking for new opportunities
