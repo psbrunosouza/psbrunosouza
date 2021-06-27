@@ -11,7 +11,7 @@
 </div>
 
 
-I'm an IT student in ***Universidade Salvador - Brazil***, nowadays involved with web development, working with reactjs and node and making personal my own projects in my free time.
+I'm an IT student in ***Universidade Salvador - Brazil***, nowadays working with web development, mainly reactjs and node and making personal projects in my free time.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psbrunosouza&count_private=true&theme=dracula&show_icons=true)](https://github.com/psbrunosouza)
 
