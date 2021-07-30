@@ -13,7 +13,7 @@
 
 I'm an IT student in ***Universidade Salvador - Brazil***, nowadays working with web development, mainly reactjs and node and making personal projects in my free time.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psbrunosouza&count_private=true&theme=dracula&show_icons=true)](https://github.com/psbrunosouza)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psbrunosouza&count_private=true&include_all_commits=true&theme=dracula&show_icons=true)](https://github.com/psbrunosouza)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psbrunosouza&layout=compact&theme=dracula)](https://github.com/psbrunosouza)
 
