@@ -15,7 +15,7 @@ I'm an IT student in ***Universidade Salvador - Brazil***, nowadays working with
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psbrunosouza&count_private=true&include_all_commits=true&theme=dracula&show_icons=true)](https://github.com/psbrunosouza)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psbrunosouza&layout=compact&theme=dracula&hide=php,html)](https://github.com/psbrunosouza)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psbrunosouza&layout=compact&theme=dracula&hide=php,html,css)](https://github.com/psbrunosouza)
 
 ### 🔧 Skills
 
