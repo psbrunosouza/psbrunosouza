@@ -41,6 +41,17 @@ Web developer
     />
   </a>
   
+  <a style="padding-right: 5px" href="https://elixir-lang.org/" rel="nofollow">
+    <img 
+         src="https://camo.githubusercontent.com/2c7355785781464b9b6ad3b81a20c5e5490dfcb1e8c4d54cc9441eb35fcad790/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f656c697869722d6c616e672f656c697869722d6c616e672d69636f6e2e737667" 
+         alt="Elixir" 
+         data-canonical-src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" 
+         style="max-width: 100%;" 
+         width="36" 
+         height="36"
+    />
+  </a>
+  
   <a style="padding-right: 5px" href="https://angular.io/" target="_blank" rel="noreferrer">
     <img 
          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" 
@@ -79,10 +90,11 @@ Web developer
   
   <a style="padding-right: 5px" href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img 
-         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" 
-         width="36" 
-         height="36" 
+         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" 
          alt="Express" 
+         style="max-width: 100%;" 
+         width="36" 
+         height="36"
     />
   </a>
   
