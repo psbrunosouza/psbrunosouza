@@ -151,4 +151,22 @@ Web developer
          alt="Figma" 
     />
   </a>
+  
+   <a style="padding-right: 5px" href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img 
+         src="https://user-images.githubusercontent.com/45085894/174486317-e3505bf1-e8bf-45c0-b0b6-f886e5e3d758.png" 
+         width="36" 
+         height="36" 
+         alt="Prisma" 
+    />
+  </a>
+  
+   <a style="padding-right: 5px" href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img 
+         src="https://user-images.githubusercontent.com/45085894/174486384-831292dd-3ef3-4eb9-919a-5d2f18ab2f15.png" 
+         width="36" 
+         height="36" 
+         alt="Tailwind" 
+    />
+  </a>
 </p>
