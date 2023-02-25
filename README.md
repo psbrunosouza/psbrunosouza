@@ -14,7 +14,7 @@ Web developer
 
 ### Projects
 
-- <a href="https://github.com/psbrunosouza/todo-list-golang">Todo List - RESTAPI [GOLANG]</a>
+- **[Todo List](https://github.com/psbrunosouza/todo-list-golang)** | *[GOLANG]* *[RESTAPI]* 
 
 ### Badges
 
