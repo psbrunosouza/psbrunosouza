@@ -12,6 +12,10 @@ Web developer
 
 <p align="left"> <a href="https://www.linkedin.com/in/psbrunosouza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+### Projects
+
+- <a href="https://github.com/psbrunosouza/todo-list-golang">Todo List - RESTAPI [GOLANG]</a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
