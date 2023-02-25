@@ -183,4 +183,14 @@ Web developer
          alt="Bootstrap" 
     />
   </a>
+  
+ 
+    <a style="padding-right: 5px" href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img 
+         src="https://user-images.githubusercontent.com/45085894/174486478-de026ea6-fb50-4c1f-8445-19aab8268e72.png" 
+         width="36" 
+         height="36" 
+         alt="Golang" 
+    />
+  </a>
 </p>
