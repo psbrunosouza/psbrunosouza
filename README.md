@@ -6,7 +6,7 @@ Web developer
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [psbrunosouza@gmail.com](mailto:psbrunosouza@gmail.com)
-*   🧠  I'm learning Elixir, RXJS
+*   🧠  I'm a frontend developer
 
 ### Socials
 
