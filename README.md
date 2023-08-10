@@ -22,7 +22,7 @@ Web developer
 
 <a href="http://www.github.com/psbrunosouza"><img src="https://github-readme-stats.vercel.app/api?username=psbrunosouza&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="psbrunosouza's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?title_color=ef4444&hide_border=true&bg_color=1c1917&username=psbrunosouza&layout=compact&theme=dracula&hide=php,html,css,java,elixir)](https://github.com/psbrunosouza)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?title_color=ef4444&hide_border=true&bg_color=1c1917&username=psbrunosouza&layout=compact&theme=dracula&hide=php,html,css,java,elixir,c#,hack)](https://github.com/psbrunosouza)
 
 ### Skills
 
