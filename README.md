@@ -6,7 +6,7 @@ Web developer
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [psbrunosouza.dev@gmail.com](mailto:psbrunosouza.dev@gmail.com)
-*   🧠  I'm a frontend developer
+*   🧠  I'm a fullstack developer
 
 ### Socials
 
