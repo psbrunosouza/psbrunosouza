@@ -1,8 +1,8 @@
-Hello, I'm **Bruno Souza**. At 28 years old, I hail from the beautiful city of Salvador, BA. As a Professional in Information Systems, my expertise lies in the realm of web system development. With a robust background in frontend, backend, mobile, and game development, I bring a versatile skill set to the table.
+Hello, I'm **Bruno Souza**. At 28 years old, I hail from the beautiful city of Salvador, BA in Brazil. As a Professional in Information Systems, my expertise lies in the realm of web system development. With a robust background in frontend, backend, mobile, and game development, I bring a versatile skill set to the table.
 
 My responsibilities as a developer and IT professional revolve around attaining the pinnacle of quality in my systems, ensuring impeccable performance, and maximizing usability. I am dedicated to crafting solutions that not only meet but exceed expectations, fostering a seamless and enjoyable user experience.
 
-## Habilidades
+## Skills
 
 ### Main Stacks
 
@@ -34,6 +34,15 @@ My responsibilities as a developer and IT professional revolve around attaining 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,prisma)](https://skillicons.dev)
 
 </p>
+</div>
+
+<div>
+
+### Social Medias
+
+  <span style="width: 32px">
+
+![Sem título-2_Prancheta 1](https://github.com/psbrunosouza/psbrunosouza/assets/45085894/ed79f481-ddea-442d-8c9a-83c02317debf)
+</span>
 
 </div>
-<div>
