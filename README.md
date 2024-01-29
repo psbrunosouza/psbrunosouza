@@ -4,7 +4,7 @@ My responsibilities as a developer and IT professional revolve around attaining 
 
 ## Habilidades
 
-### Principais Stacks
+### Main Stacks
 
 <p style="display: flex; gap: 12px;">
 
