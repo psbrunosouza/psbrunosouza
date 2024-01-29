@@ -42,7 +42,7 @@ My responsibilities as a developer and IT professional revolve around attaining 
 
   <span style="width: 32px">
 
-![Sem título-2_Prancheta 1](https://github.com/psbrunosouza/psbrunosouza/assets/45085894/ed79f481-ddea-442d-8c9a-83c02317debf)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 </span>
 
 </div>
