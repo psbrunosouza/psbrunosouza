@@ -1,4 +1,6 @@
-Olá me chamo Bruno Souza, atualmente tenho 28 anos, fui nascido e criado na terra abençoada de Salvador BA. Sou o Profissional de Sistemas de Informação, e atuo principalmente com desenvolvimento de sistemas web. Tenho ampla experiência com frontend, backend, mobile e game dev. Meu deveres como desenvolvedor e profissional de TI são: alcançar o máximo de qualidade nos meus sistemas, performance invejável e o máximo de usabilidade.
+Hello, I'm **Bruno Souza**. At 28 years old, I hail from the beautiful city of Salvador, BA. As a Professional in Information Systems, my expertise lies in the realm of web system development. With a robust background in frontend, backend, mobile, and game development, I bring a versatile skill set to the table.
+
+My responsibilities as a developer and IT professional revolve around attaining the pinnacle of quality in my systems, ensuring impeccable performance, and maximizing usability. I am dedicated to crafting solutions that not only meet but exceed expectations, fostering a seamless and enjoyable user experience.
 
 ## Habilidades
 
