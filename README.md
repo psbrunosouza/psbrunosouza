@@ -40,9 +40,9 @@ My responsibilities as a developer and IT professional revolve around attaining 
 
 ### Social Medias
 
-  <span style="width: 32px">
+  <a href="https://www.linkedin.com/in/psbrunosouza/" >
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-</span>
+</a>
 
 </div>
