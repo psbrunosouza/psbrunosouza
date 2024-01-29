@@ -67,43 +67,34 @@ Olá me chamo Bruno Souza, atualmente tenho 28 anos, fui nascido e criado na ter
 
 ### Backend
 
-<div style="display: flex; gap: 8px;">
+<p>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
+</span>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-</div>
+</span>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-</div>
+</span>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
        <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-</div>
+</span>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
        <img 
          src="https://user-images.githubusercontent.com/45085894/174486317-e3505bf1-e8bf-45c0-b0b6-f886e5e3d758.png" 
          width="38px" 
          height="38px" 
          alt="Prisma" 
     />
-</div>
+</span>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
-       <img 
-         src="https://user-images.githubusercontent.com/45085894/174486317-e3505bf1-e8bf-45c0-b0b6-f886e5e3d758.png" 
-         width="38px" 
-         height="38px" 
-         alt="Prisma" 
-    />
-</div>
-
-</div>
+</p>
 
 </div>
 <div>
