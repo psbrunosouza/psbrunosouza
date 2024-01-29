@@ -4,22 +4,22 @@ Olá me chamo Bruno Souza, atualmente tenho 28 anos, fui nascido e criado na ter
 
 ### Principais Stacks
 
-<div style="display: flex; gap: 12px;">
-<div style="display: flex; justify-content: center; align-items: center; background: #f0db4f; width: 64px; height: 64px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<p style="display: flex; gap: 12px;">
+<span style="display: flex; justify-content: center; align-items: center; background: #f0db4f; width: 64px; height: 64px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
      <img alt="Principal linguagem" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
+</span>
 
-<div style="display: flex; justify-content: center; align-items: center; background: #007acc; width: 64px; height: 64px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style="display: flex; justify-content: center; align-items: center; background: #007acc; width: 64px; height: 64px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
      <img alt="Principal linguagem" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
+</span>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #fff; width: 64px; height: 64px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #fff; width: 64px; height: 64px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
      <img alt="Principal linguagem" width="46px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-</div>
-<div style=" display: flex; justify-content: center; align-items: center; background: #C7D6D5; width: 64px; height: 64px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+</span>
+<span style=" display: flex; justify-content: center; align-items: center; background: #C7D6D5; width: 64px; height: 64px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
      <img width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-</div>
-</div>
+</span>
+</p>
 
 <div style="display: flex; justify-content: space-between">
 
@@ -27,48 +27,46 @@ Olá me chamo Bruno Souza, atualmente tenho 28 anos, fui nascido e criado na ter
 
 ### Frontend
 
-<div style="display: flex; gap: 6px; flex-wrap: wrap;">
-<div style=" display: flex; justify-content: center; align-items: center; background: #f16529; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<p style="display: flex; gap: 6px; flex-wrap: wrap;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #f16529; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
      <img alt="Html5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-</div>
+</span>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #33a9dc; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #33a9dc; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
      <img alt="Css3" width="38px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+</span>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
      <img alt="Tailwind" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-</div>
+</span>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div>
+</span>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-</div>
+</span>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
        <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+</span>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
         <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-</div>
+</span>
 
-<div style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
+<span style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
          <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div>
-
-</div>
+</span>
+</p>
 
 </div>
 <div>
 
 ### Backend
 
-<p>
-
+<p style="display: flex; gap: 6px; flex-wrap: wrap;">
 <span style=" display: flex; justify-content: center; align-items: center; background: #fff6; width: 52px; height: 52px; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;">
      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </span>
