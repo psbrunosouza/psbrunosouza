@@ -35,14 +35,3 @@ My responsibilities as a developer and IT professional revolve around attaining 
 
 </p>
 </div>
-
-<div>
-
-### Social Medias
-
-  <a href="https://www.linkedin.com/in/psbrunosouza/" >
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-</a>
-
-</div>
