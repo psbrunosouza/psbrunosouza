@@ -20,7 +20,7 @@ My responsibilities as a developer and IT professional revolve around attaining 
 
 <p style="display: flex; gap: 6px; flex-wrap: wrap;">
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,html,css,tailwind,bootstrap,sass,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,ionic,html,css,tailwind,bootstrap,sass,figma)](https://skillicons.dev)
 
 </p>
 
