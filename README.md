@@ -8,7 +8,7 @@ My responsibilities as a developer and IT professional revolve around attaining 
 
 <p style="display: flex; gap: 12px;">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,go,godot)](https://skillicons.dev)
 
 </p>
 
